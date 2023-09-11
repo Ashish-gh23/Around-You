@@ -31,6 +31,10 @@ https://github.com/Ashish-gh23/Around-You/assets/65113375/a302fcd6-3b97-41d7-85b
 4. Push your changes to your forked repository.
 5. Submit a pull request, I will verify and hopefully merge it within a day.
 
+## Future Scope
+- On the search option open a bottom sheet with some prefixed options to choose from like Petrol Pump, Hotel, Cafe, library, etc.
+- Keep a track of user's search history and enable functionality to bookmark places.
+
 Happy Coding:)
 
    
